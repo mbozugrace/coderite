@@ -1,24 +1,11 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+CodeRite is a web application written in RubyOnRails. 
+It is a platform that connects computer science students 
+and anyone interested in learning to program easily. 
 
 Things you may want to cover:
 
 * Ruby version
+6.0.3
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...

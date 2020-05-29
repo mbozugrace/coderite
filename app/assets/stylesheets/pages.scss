@@ -1,0 +1,72 @@
+// Place all the styles related to the Pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+
+body{
+	font-family: 'Muli', sans-serif;
+	color: #080708;
+	font-family: 'Rokkitt', serif;
+
+}
+
+h1{
+	color: #780116;
+}
+
+h4{
+	text-align: center;
+	color: #ffa400;
+	font-family: 'Baloo Chettan 2', cursive;
+}
+
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link{
+	color: #080708;
+}
+
+.navbar-light .navbar-nav .nav-link{
+	color: #080708;
+}
+
+.page-content{
+
+}
+
+#page{
+	background-image: linear-gradient(white, #009ffd);
+	width: 100%;
+	margin: 0;
+	height: 500px;
+	position: fixed;
+	bottom: 0px;
+}
+
+#icon{
+	display: block;
+	margin-top: 50px;
+	margin-bottom: 0;
+	margin-left: auto;
+	margin-right: auto; 
+
+}
+
+.info p{
+	color: grey;
+}
+
+.info{
+	margin: 0 auto;
+}
+
+.row{
+	margin-top: 85px;
+}
+
+.home-info, .home-exp{
+	text-align: center;
+	width: 45%;
+	margin: 0 auto;
+	color: #d9f0ff;
+}
+.home-exp{
+	width: 95%;
+}
